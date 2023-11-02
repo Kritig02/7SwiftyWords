@@ -38,4 +38,4 @@ git clone https://github.com/Kritig02/7SwiftyWords.git
 This project is open source and available under the MIT License.
 
 ### Contact
-If you have any questions or want to reach out to me, you can find me on [GitHub]((https://github.com/Kritig02)https://github.com/Kritig02).
+If you have any questions or want to reach out to me, you can find me on ((https://github.com/Kritig02)https://github.com/Kritig02).
